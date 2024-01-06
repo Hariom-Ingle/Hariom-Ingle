@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <br>
 🔭 I'm a Frontend Developer, who crafted immersive and visually appealing user experiences.  
-<br>
+<br><br>
 🎓 I'm pursuing a Computer Engineering degree at the Government College of Engineering, Yavatmal.
 <br><br>
 🎨 As a web developer, I am deeply passionate about crafting digital experiences that blend creativity and functionality seamlessly. 
