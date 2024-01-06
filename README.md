@@ -4,7 +4,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="hariom-ingle" /> </p>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<br>
 🔭 I'm a Frontend Developer, who crafted immersive and visually appealing user experiences.  
 <br>
 🎓 I'm pursuing a Computer Engineering degree at the Government College of Engineering, Yavatmal.
