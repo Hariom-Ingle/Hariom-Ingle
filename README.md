@@ -2,6 +2,16 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariom-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="hariom-ingle" /> </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+🔭 I'm a Frontend Developer, who crafted immersive and visually appealing user experiences.  
+<br><br>
+🎓I'm pursuing a Computer Engineering degree at the Government College of Engineering, Yavatmal.
+<br><br>
+🎨 As a web developer, I am deeply passionate about crafting digital experiences that blend creativity and functionality seamlessly. 
+<br>I find immense satisfaction in transforming ideas into visually appealing and user-friendly websites. My enthusiasm for staying updated with the latest web technologies and constantly refining my coding skills reflects my commitment to delivering high-quality solutions. <br>I am dedicated to pushing the boundaries of what is possible in the ever-evolving digital landscape. 
+<br><br>
+ 💡 I'm a firm believer in lifelong learning. Each day presents an opportunity to acquire new skills and deepen my understanding of evolving technologies.
+ <br><br>
 
 - 👨‍💻 All of my projects are available at [https://hariomingle.000webhostapp.com/](https://hariomingle.000webhostapp.com/)
 
